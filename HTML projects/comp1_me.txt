@@ -1,0 +1,35 @@
+<html>
+<head><title>page 1</title></head>
+<body bgcolor="yellow">
+<font face="forte"><hl align="center">
+phoenix software</hl>
+</font>
+<p>
+<font face="comic sans ms" size="5" color="red">
+<b>phoenix software</b>is software company
+<br>it focuses on software development.
+<br>it provides solutions using dotnet technology.<br>
+</font></p>
+<p>
+<font face="arial" size="2" color="green">
+<i>it is a company which provides different facilities to their employees
+
+<br>employees can work on their ideas and convert them to reality<br>
+</i>
+</p>
+</font>
+<b><u>for further assistance contact</u></b>
+<font face="forte" size="4">
+<pre>
+phoenix computers
+108,heramb apartment
+paud road
+pune
+phone:020-25403939
+Email Id:phoenix_sol@yahoo.com
+
+</pre>
+</font>
+<a href=
+</body>
+</html>

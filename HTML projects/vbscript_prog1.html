@@ -1,0 +1,24 @@
+<html>
+<head>
+<script language="VBScript">
+dim name,bd,g,age,n
+name=inputbox("Enter your name")
+g=inputbox("Enter your gender")
+bd=inputbox("Enter your birthdate in 4 digit year")
+document.write"<br>Name:-"&name
+document.write"<br>Gender:-"&g
+document.write"<br>Birthdate:-"&bd
+age=year(now())-year(bd)
+if age<=15 then
+n=inputbox("Enter your school name")
+document.write"<br>School name:-"&n
+elseif age>15 and age<=22 then
+n=inputbox("Enter your college name")
+document.write"<br>College name:-"&n
+elseif age>22 then
+n=inputbox("Enter the name of your workplace")
+document.write"<br>Workplace name:-"&n
+end if
+</script>
+</head>
+</html>
